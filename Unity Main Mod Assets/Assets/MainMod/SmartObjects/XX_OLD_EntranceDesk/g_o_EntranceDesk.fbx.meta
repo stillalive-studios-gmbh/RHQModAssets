@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 0583ed4e2314798438ace5ccb497e3e9
+timeCreated: 1523365567
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Book_1
+    100002: Book_10
+    100004: Book_2
+    100006: Book_3
+    100008: Book_4
+    100010: Book_5
+    100012: Book_6
+    100014: Book_7
+    100016: Book_8
+    100018: Book_9
+    100020: Bottle
+    100022: Coffe_Mug
+    100024: Cubboard
+    100026: Desc
+    100028: EntryDesc_PC_Keyboard
+    100030: EntryDesk
+    100032: Flowerpot3
+    100034: //RootNode
+    100036: Lamp
+    100038: Maus
+    100040: Maus2
+    100042: Office_Chair
+    100044: Office_Chair1
+    100046: Paper
+    100048: PC1_Keyboard
+    100050: PC3
+    100052: PC4
+    100054: Pen
+    100056: Pen_Cub
+    100058: Pen_Cub1
+    100060: Wastbasked
+    100062: pCube7
+    100064: pCylinder3
+    100066: Phone
+    100068: group1
+    100070: group
+    100072: group2
+    100074: pasted__group1
+    100076: pasted__group1 1
+    100078: pasted__Office_Chair
+    100080: pasted__Office_Chair 1
+    100082: pasted__Table
+    100084: pasted__Table 1
+    400000: Book_1
+    400002: Book_10
+    400004: Book_2
+    400006: Book_3
+    400008: Book_4
+    400010: Book_5
+    400012: Book_6
+    400014: Book_7
+    400016: Book_8
+    400018: Book_9
+    400020: Bottle
+    400022: Coffe_Mug
+    400024: Cubboard
+    400026: Desc
+    400028: EntryDesc_PC_Keyboard
+    400030: EntryDesk
+    400032: Flowerpot3
+    400034: //RootNode
+    400036: Lamp
+    400038: Maus
+    400040: Maus2
+    400042: Office_Chair
+    400044: Office_Chair1
+    400046: Paper
+    400048: PC1_Keyboard
+    400050: PC3
+    400052: PC4
+    400054: Pen
+    400056: Pen_Cub
+    400058: Pen_Cub1
+    400060: Wastbasked
+    400062: pCube7
+    400064: pCylinder3
+    400066: Phone
+    400068: group1
+    400070: group
+    400072: group2
+    400074: pasted__group1
+    400076: pasted__group1 1
+    400078: pasted__Office_Chair
+    400080: pasted__Office_Chair 1
+    400082: pasted__Table
+    400084: pasted__Table 1
+    2300000: Book_1
+    2300002: Book_10
+    2300004: Book_2
+    2300006: Book_3
+    2300008: Book_4
+    2300010: Book_5
+    2300012: Book_6
+    2300014: Book_7
+    2300016: Book_8
+    2300018: Book_9
+    2300020: Bottle
+    2300022: Coffe_Mug
+    2300024: Cubboard
+    2300026: Desc
+    2300028: EntryDesc_PC_Keyboard
+    2300030: Flowerpot3
+    2300032: Lamp
+    2300034: Maus
+    2300036: Maus2
+    2300038: Office_Chair
+    2300040: Office_Chair1
+    2300042: Paper
+    2300044: PC1_Keyboard
+    2300046: PC3
+    2300048: PC4
+    2300050: Pen
+    2300052: Pen_Cub
+    2300054: Pen_Cub1
+    2300056: Wastbasked
+    2300058: pCube7
+    2300060: pCylinder3
+    2300062: pasted__Office_Chair
+    2300064: pasted__Office_Chair 1
+    2300066: //RootNode
+    3300000: Book_1
+    3300002: Book_10
+    3300004: Book_2
+    3300006: Book_3
+    3300008: Book_4
+    3300010: Book_5
+    3300012: Book_6
+    3300014: Book_7
+    3300016: Book_8
+    3300018: Book_9
+    3300020: Bottle
+    3300022: Coffe_Mug
+    3300024: Cubboard
+    3300026: Desc
+    3300028: EntryDesc_PC_Keyboard
+    3300030: Flowerpot3
+    3300032: Lamp
+    3300034: Maus
+    3300036: Maus2
+    3300038: Office_Chair
+    3300040: Office_Chair1
+    3300042: Paper
+    3300044: PC1_Keyboard
+    3300046: PC3
+    3300048: PC4
+    3300050: Pen
+    3300052: Pen_Cub
+    3300054: Pen_Cub1
+    3300056: Wastbasked
+    3300058: pCube7
+    3300060: pCylinder3
+    3300062: pasted__Office_Chair
+    3300064: pasted__Office_Chair 1
+    3300066: //RootNode
+    4300000: Pen_Cub
+    4300002: Pen_Cub1
+    4300004: Pen
+    4300006: Desc
+    4300008: Lamp
+    4300010: Cubboard
+    4300012: Wastbasked
+    4300014: Flowerpot3
+    4300016: Book_1
+    4300018: Book_2
+    4300020: Book_7
+    4300022: Book_6
+    4300024: Book_5
+    4300026: Book_4
+    4300028: Book_3
+    4300030: Bottle
+    4300032: EntryDesc_PC_Keyboard
+    4300034: PC1_Keyboard
+    4300036: Maus
+    4300038: PC3
+    4300040: Maus2
+    4300042: PC4
+    4300044: Coffe_Mug
+    4300046: Book_8
+    4300048: Book_9
+    4300050: Book_10
+    4300052: Paper
+    4300054: Office_Chair
+    4300056: Office_Chair1
+    4300058: pCylinder3
+    4300060: pCube7
+    4300062: pasted__Office_Chair
+    4300064: pasted__Office_Chair
+    4300066: Office_Chair2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

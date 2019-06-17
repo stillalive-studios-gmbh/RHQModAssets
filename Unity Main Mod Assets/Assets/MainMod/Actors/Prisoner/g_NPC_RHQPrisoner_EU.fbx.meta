@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 3368c902e068000499c13d6fd2774100
+timeCreated: 1558086201
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _ROOT
+    100002: a_NPC_M
+    100004: Foot.l
+    100006: Foot.l_end
+    100008: Foot.r
+    100010: Foot.r_end
+    100012: //RootNode
+    100014: Hand.l
+    100016: Hand.l_end
+    100018: Hand.r
+    100020: Hand.r_end
+    100022: Head
+    100024: Head_end
+    100026: LowerArm.l
+    100028: LowerArm.r
+    100030: LowerLeg.l
+    100032: LowerLeg.r
+    100034: Neck
+    100036: NPC_Medic_Female
+    100038: NPC_Prisoner
+    100040: pCube1
+    100042: pCube2
+    100044: Pelvis
+    100046: Plane
+    100048: PoliceM
+    100050: Shoulder.l
+    100052: Shoulder.r
+    100054: Spine
+    100056: transform14
+    100058: transform15
+    100060: transform16
+    100062: UpperArm.l
+    100064: UpperArm.r
+    100066: UpperLeg.l
+    100068: UpperLeg.r
+    100070: US
+    100072: Foot_l
+    100074: Foot_r
+    100076: Hand_l
+    100078: Hand_r
+    100080: LowerArm_l
+    100082: LowerArm_r
+    100084: LowerLeg_l
+    100086: LowerLeg_r
+    100088: Shoulder_l
+    100090: Shoulder_r
+    100092: UpperArm_l
+    100094: UpperArm_r
+    100096: UpperLeg_l
+    100098: UpperLeg_r
+    400000: _ROOT
+    400002: a_NPC_M
+    400004: Foot.l
+    400006: Foot.l_end
+    400008: Foot.r
+    400010: Foot.r_end
+    400012: //RootNode
+    400014: Hand.l
+    400016: Hand.l_end
+    400018: Hand.r
+    400020: Hand.r_end
+    400022: Head
+    400024: Head_end
+    400026: LowerArm.l
+    400028: LowerArm.r
+    400030: LowerLeg.l
+    400032: LowerLeg.r
+    400034: Neck
+    400036: NPC_Medic_Female
+    400038: NPC_Prisoner
+    400040: pCube1
+    400042: pCube2
+    400044: Pelvis
+    400046: Plane
+    400048: PoliceM
+    400050: Shoulder.l
+    400052: Shoulder.r
+    400054: Spine
+    400056: transform14
+    400058: transform15
+    400060: transform16
+    400062: UpperArm.l
+    400064: UpperArm.r
+    400066: UpperLeg.l
+    400068: UpperLeg.r
+    400070: US
+    400072: Foot_l
+    400074: Foot_r
+    400076: Hand_l
+    400078: Hand_r
+    400080: LowerArm_l
+    400082: LowerArm_r
+    400084: LowerLeg_l
+    400086: LowerLeg_r
+    400088: Shoulder_l
+    400090: Shoulder_r
+    400092: UpperArm_l
+    400094: UpperArm_r
+    400096: UpperLeg_l
+    400098: UpperLeg_r
+    2300000: NPC_Prisoner
+    2300002: Plane
+    2300004: PoliceM
+    3300000: NPC_Prisoner
+    3300002: Plane
+    3300004: PoliceM
+    4300000: NPC_Prisoner
+    4300002: PoliceM
+    4300004: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

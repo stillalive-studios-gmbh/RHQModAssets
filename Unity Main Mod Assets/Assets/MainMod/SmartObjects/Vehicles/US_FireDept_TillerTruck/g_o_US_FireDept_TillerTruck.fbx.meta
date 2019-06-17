@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 6dd623e31bf583f408769dbed7b9dc03
+timeCreated: 1554720002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: front_door_L
+    100002: front_door_R
+    100004: //RootNode
+    100006: ladder
+    100008: ladder2
+    100010: ladder_base
+    100012: ladder_pivot
+    100014: pladder_cabin
+    100016: rear
+    100018: rear_door_L
+    100020: rear_door_R
+    100022: _Axis
+    100024: _Root
+    100026: a_Vehicle
+    100028: Door_LF
+    100030: Door_LF_end
+    100032: Door_LR
+    100034: Door_LR_end
+    100036: Door_RF
+    100038: Door_RF_end
+    100040: Door_RR
+    100042: Door_RR_end
+    100044: FrontAxis
+    100046: FrontAxis_end
+    100048: MidAxis
+    100050: MidAxis_end
+    100052: RearAxis
+    100054: RearAxis_end
+    100056: US_FireEngine_TillerTruck
+    400000: front_door_L
+    400002: front_door_R
+    400004: //RootNode
+    400006: ladder
+    400008: ladder2
+    400010: ladder_base
+    400012: ladder_pivot
+    400014: pladder_cabin
+    400016: rear
+    400018: rear_door_L
+    400020: rear_door_R
+    400022: _Axis
+    400024: _Root
+    400026: a_Vehicle
+    400028: Door_LF
+    400030: Door_LF_end
+    400032: Door_LR
+    400034: Door_LR_end
+    400036: Door_RF
+    400038: Door_RF_end
+    400040: Door_RR
+    400042: Door_RR_end
+    400044: FrontAxis
+    400046: FrontAxis_end
+    400048: MidAxis
+    400050: MidAxis_end
+    400052: RearAxis
+    400054: RearAxis_end
+    400056: US_FireEngine_TillerTruck
+    2300000: front_door_L
+    2300002: front_door_R
+    2300004: //RootNode
+    2300006: ladder
+    2300008: ladder2
+    2300010: ladder_base
+    2300012: ladder_pivot
+    2300014: pladder_cabin
+    2300016: rear
+    2300018: rear_door_L
+    2300020: rear_door_R
+    2300022: US_FireEngine_TillerTruck
+    3300000: front_door_L
+    3300002: front_door_R
+    3300004: //RootNode
+    3300006: ladder
+    3300008: ladder2
+    3300010: ladder_base
+    3300012: ladder_pivot
+    3300014: pladder_cabin
+    3300016: rear
+    3300018: rear_door_L
+    3300020: rear_door_R
+    3300022: US_FireEngine_TillerTruck
+    4300000: firetruck_v3
+    4300002: rear_door_L
+    4300004: rear_door_R
+    4300006: front_door_R
+    4300008: front_door_L
+    4300010: rear
+    4300012: ladder_base
+    4300014: ladder_pivot
+    4300016: ladder
+    4300018: ladder2
+    4300020: pladder_cabin
+    4300022: US_FireEngine_TillerTruck
+    7400000: TillerTruck_Idle
+    7400002: a_VehicleAction
+    7400004: TillerTruck_OpenDoors
+    7400006: TillerTruck_WiggleRight
+    7400008: TillerTruck_WiggleLeft
+    7400010: TillerTruck_CloseDoors
+    7400012: TillerTruck_DriveOff_REMOVEAFTERREWORK
+    7400014: TillerTruck_Away_REMOVEAFTERREWORK
+    7400016: TillerTruck_ComeBack_REMOVEAFTERREWORK
+    9500000: //RootNode
+    13700000: US_FireEngine_TillerTruck
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TillerTruck_Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_OpenDoors
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_WiggleRight
+      takeName: Default Take
+      firstFrame: 24
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_WiggleLeft
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_CloseDoors
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_DriveOff_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_Away_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TillerTruck_ComeBack_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 75
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: a_Vehicle
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

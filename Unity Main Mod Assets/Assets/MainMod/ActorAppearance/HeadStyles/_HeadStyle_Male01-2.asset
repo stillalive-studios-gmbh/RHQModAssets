@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -334707694, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _HeadStyle_Male01-2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  uiHeadShape: {fileID: 224068229483373274, guid: a5b580174daf5724490dd5d20be61e24,
+    type: 2}
+  uiNeutralFace: {fileID: 224068229483373274, guid: 414e91b685ca2b545bcdf7297fe86adf,
+    type: 2}
+  uiHappyFace: {fileID: 224068229483373274, guid: ebebb0de970ca194aa31bca6e70b04a7,
+    type: 2}
+  uiSadFace: {fileID: 224068229483373274, guid: 5e793c984f3bc2649a0f36ebf1f71101,
+    type: 2}

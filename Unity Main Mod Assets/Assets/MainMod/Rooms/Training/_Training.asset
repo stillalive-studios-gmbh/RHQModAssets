@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1581055387, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Training
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300010, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  floorPrefabSelectionMethod: 0
+  floorPrefabs:
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: a018c08b32f006e428c22bc26a45fb23, type: 2}
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: 51549de5c1b25814d92980b0de0cb6bb, type: 2}
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: 51549de5c1b25814d92980b0de0cb6bb, type: 2}
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: 51549de5c1b25814d92980b0de0cb6bb, type: 2}
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: 51549de5c1b25814d92980b0de0cb6bb, type: 2}
+  - {fileID: 4557205433972854, guid: 2acd23381fe68da4d80fbc539a3d534f, type: 2}
+  - {fileID: 4920170093844922, guid: 51549de5c1b25814d92980b0de0cb6bb, type: 2}
+  wallPrefabSelectionMethod: 0
+  wallPrefabs:
+  - {fileID: 4027232235892840, guid: 6ea2acb0b12c824468b9d0da9626ad45, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4666737786877676, guid: ace37fcad76cb8e49aa4364849540da5, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4870599867319462, guid: 4f6a184928970194f9dd7470a62fdb0a, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  - {fileID: 4392027546780382, guid: 24ea7fe014762ef4085bf4bdba2b74b3, type: 2}
+  wallCorner90Prefab: {fileID: 0}
+  wallCorner180Prefab: {fileID: 0}
+  wallCorner270Prefab: {fileID: 4789736949629516, guid: a779c76f1c5521f4ebf707d925cfce3d,
+    type: 2}
+  wallCorner360Prefab: {fileID: 4278886070922300, guid: 04d0ad0b15ba130428b2cd981c35f13d,
+    type: 2}

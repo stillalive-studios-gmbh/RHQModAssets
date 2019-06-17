@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _RoomOrthopedy
+  m_EditorClassIdentifier: 
+  prefabPreview: {fileID: 4432810642790014, guid: 61e6e8e79bd66584aba580c5c77ce0ff,
+    type: 2}
+  prefabSelectionMethod: 1
+  prefabs:
+  - {fileID: 4934544958493170, guid: 688326ac5eeca294695dd9df8f326e96, type: 2}
+  - {fileID: 4461725901739508, guid: a61c71a37efafaa4cb32e4d91a5ce2d8, type: 2}
+  - {fileID: 4624341039489666, guid: 85c63cc15c100bc419eba648b5504926, type: 2}
+  - {fileID: 4405744112755874, guid: 230dace769d1a924287fcbb5ed40e10a, type: 2}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  cardboardOriginPrefab: {fileID: 0}
+  sprite: {fileID: 21300000, guid: fc39111bb55ec0d4aa6cb796c4853892, type: 3}
+  idleAnimation: {fileID: 0}
+  states: []

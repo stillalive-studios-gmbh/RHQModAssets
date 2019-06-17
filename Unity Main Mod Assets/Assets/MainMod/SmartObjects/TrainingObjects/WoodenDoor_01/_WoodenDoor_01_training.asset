@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -629752451, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _WoodenDoor_01_training
+  m_EditorClassIdentifier: 
+  actor:
+    enter: {fileID: 7400000, guid: d31e8b4a168f9bf4eabae8ed5e0770b7, type: 3}
+    loop: {fileID: 7400002, guid: d31e8b4a168f9bf4eabae8ed5e0770b7, type: 3}
+    exit: {fileID: 7400004, guid: d31e8b4a168f9bf4eabae8ed5e0770b7, type: 3}
+  smartObject:
+    enter: {fileID: 7400002, guid: 7ff32369ea582dd46b984e8495aa6584, type: 3}
+    loop: {fileID: 7400002, guid: 7ff32369ea582dd46b984e8495aa6584, type: 3}
+    exit: {fileID: 7400000, guid: 7ff32369ea582dd46b984e8495aa6584, type: 3}
+  activitySounds:
+    Enter: 
+    Loop: event:/FX/SmartObjects/WoodenDoor/Loop
+    Exit: event:/FX/SmartObjects/WoodenDoor/Exit
+  activityPrefabs:
+    DuringLoop: {fileID: 0}

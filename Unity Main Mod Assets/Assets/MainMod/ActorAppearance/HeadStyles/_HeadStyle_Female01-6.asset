@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -334707694, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _HeadStyle_Female01-6
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  uiHeadShape: {fileID: 224068229483373274, guid: 0e86de4d096f83e41910c949243ebaea,
+    type: 2}
+  uiNeutralFace: {fileID: 224068229483373274, guid: 06d1705f6a6f3b547aa9683039de0984,
+    type: 2}
+  uiHappyFace: {fileID: 224068229483373274, guid: b3e817437f4563244a9b08f247d9147c,
+    type: 2}
+  uiSadFace: {fileID: 224068229483373274, guid: 8feb413da90e9c44e9c64f2b73386975,
+    type: 2}

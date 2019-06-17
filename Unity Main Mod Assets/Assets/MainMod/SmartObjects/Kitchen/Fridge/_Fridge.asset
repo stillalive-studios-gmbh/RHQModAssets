@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Fridge
+  m_EditorClassIdentifier: 
+  prefabPreview: {fileID: 4054596683267936, guid: 59921f61fe476d946929101d70fa0c7c,
+    type: 2}
+  prefabSelectionMethod: 1
+  prefabs:
+  - {fileID: 4054596683267936, guid: 59921f61fe476d946929101d70fa0c7c, type: 2}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  cardboardOriginPrefab: {fileID: 0}
+  sprite: {fileID: 21300088, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  idleAnimation: {fileID: 0}
+  states: []

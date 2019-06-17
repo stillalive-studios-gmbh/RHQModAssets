@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: aa8e2e2745f3def4d8483eb7d9ced35a
+timeCreated: 1523364917
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _ROOT
+    100004: a_NPC_M
+    100006: Armature
+    100008: Bed
+    100010: Bone
+    100012: Bone.001
+    100014: Bone.001_end
+    100016: Bone.002
+    100018: Bone.002_end
+    100020: Bone.003
+    100022: Bone.003_end
+    100024: Bone.004
+    100026: Bone.004_end
+    100028: Bone.005
+    100030: Bone.005_end
+    100032: Bone.006
+    100034: Bone.006_end
+    100036: Bone.007
+    100038: Chair
+    100040: Cube.001
+    100042: Cylinder.001
+    100044: Foot.l
+    100046: Foot.l_end
+    100048: Foot.r
+    100050: Foot.r_end
+    100052: g_o_FireEngine
+    100054: Hand.l
+    100056: Hand.l_end
+    100058: Hand.r
+    100060: Hand.r_end
+    100062: Head
+    100064: Head_end
+    100066: LowerArm.l
+    100068: LowerArm.r
+    100070: LowerLeg.l
+    100072: LowerLeg.r
+    100074: Neck
+    100076: NPC_Firefighter_M
+    100078: Pelvis
+    100080: Shoulder.l
+    100082: Shoulder.r
+    100084: Sofa2
+    100086: Sofa3
+    100088: Spine
+    100090: UpperArm.l
+    100092: UpperArm.r
+    100094: UpperLeg.l
+    100096: UpperLeg.r
+    400000: //RootNode
+    400002: _ROOT
+    400004: a_NPC_M
+    400006: Armature
+    400008: Bed
+    400010: Bone
+    400012: Bone.001
+    400014: Bone.001_end
+    400016: Bone.002
+    400018: Bone.002_end
+    400020: Bone.003
+    400022: Bone.003_end
+    400024: Bone.004
+    400026: Bone.004_end
+    400028: Bone.005
+    400030: Bone.005_end
+    400032: Bone.006
+    400034: Bone.006_end
+    400036: Bone.007
+    400038: Chair
+    400040: Cube.001
+    400042: Cylinder.001
+    400044: Foot.l
+    400046: Foot.l_end
+    400048: Foot.r
+    400050: Foot.r_end
+    400052: g_o_FireEngine
+    400054: Hand.l
+    400056: Hand.l_end
+    400058: Hand.r
+    400060: Hand.r_end
+    400062: Head
+    400064: Head_end
+    400066: LowerArm.l
+    400068: LowerArm.r
+    400070: LowerLeg.l
+    400072: LowerLeg.r
+    400074: Neck
+    400076: NPC_Firefighter_M
+    400078: Pelvis
+    400080: Shoulder.l
+    400082: Shoulder.r
+    400084: Sofa2
+    400086: Sofa3
+    400088: Spine
+    400090: UpperArm.l
+    400092: UpperArm.r
+    400094: UpperLeg.l
+    400096: UpperLeg.r
+    2300000: //RootNode
+    2300002: Bed
+    2300004: Chair
+    2300006: Cube.001
+    2300008: Cylinder.001
+    2300010: g_o_FireEngine
+    2300012: NPC_Firefighter_M
+    2300014: Sofa2
+    2300016: Sofa3
+    3300000: //RootNode
+    3300002: Bed
+    3300004: Chair
+    3300006: Cube.001
+    3300008: Cylinder.001
+    3300010: g_o_FireEngine
+    3300012: NPC_Firefighter_M
+    3300014: Sofa2
+    3300016: Sofa3
+    4300000: Sofa3
+    4300002: Chair
+    4300004: Bed
+    4300006: Sofa2
+    4300008: g_o_FireEngine
+    4300010: Cube.001
+    4300012: Cylinder.001
+    4300014: NPC_Firefighter_M
+    4300016: g_o_3SeatSofa
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

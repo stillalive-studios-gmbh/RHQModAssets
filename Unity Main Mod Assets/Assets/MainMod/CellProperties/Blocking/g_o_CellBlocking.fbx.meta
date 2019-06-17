@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 94605a1219d956d46ad8cac7ea84dd3f
+timeCreated: 1532419756
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: g_o_CellBlocker
+    100004: g_o_CellBlocker_Dot
+    100006: g_o_EdgeBlocker
+    100008: g_o_RequireWall
+    100010: g_o_RequireWall_Shade
+    100012: g_o_RequireWall.001
+    100014: g_o_RequireWall_Shade.001
+    100016: g_o_WallBlocker
+    100018: g_o_WallBlocker_Dot
+    100020: g_o_RequireStreet
+    100022: g_o_RequireStreet_dot
+    400000: //RootNode
+    400002: g_o_CellBlocker
+    400004: g_o_CellBlocker_Dot
+    400006: g_o_EdgeBlocker
+    400008: g_o_RequireWall
+    400010: g_o_RequireWall_Shade
+    400012: g_o_RequireWall.001
+    400014: g_o_RequireWall_Shade.001
+    400016: g_o_WallBlocker
+    400018: g_o_WallBlocker_Dot
+    400020: g_o_RequireStreet
+    400022: g_o_RequireStreet_dot
+    2300000: //RootNode
+    2300002: g_o_CellBlocker
+    2300004: g_o_CellBlocker_Dot
+    2300006: g_o_EdgeBlocker
+    2300008: g_o_RequireWall
+    2300010: g_o_RequireWall_Shade
+    2300012: g_o_RequireWall.001
+    2300014: g_o_RequireWall_Shade.001
+    2300016: g_o_WallBlocker
+    2300018: g_o_WallBlocker_Dot
+    2300020: g_o_RequireStreet
+    2300022: g_o_RequireStreet_dot
+    3300000: //RootNode
+    3300002: g_o_CellBlocker
+    3300004: g_o_CellBlocker_Dot
+    3300006: g_o_EdgeBlocker
+    3300008: g_o_RequireWall
+    3300010: g_o_RequireWall_Shade
+    3300012: g_o_RequireWall.001
+    3300014: g_o_RequireWall_Shade.001
+    3300016: g_o_WallBlocker
+    3300018: g_o_WallBlocker_Dot
+    3300020: g_o_RequireStreet
+    3300022: g_o_RequireStreet_dot
+    4300000: Cube
+    4300002: g_o_CellBlocker
+    4300004: g_o_EdgeBlocker
+    4300006: g_o_CellBlocker_Dot
+    4300008: g_o_RequireWall_Shade
+    4300010: g_o_RequireWall
+    4300012: g_o_RequireWall.001
+    4300014: g_o_RequireWall_Shade.001
+    4300016: g_o_WallBlocker_Dot
+    4300018: g_o_WallBlocker
+    4300020: g_o_RequireStreet
+    4300022: g_o_RequireStreet_dot
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _PoliceCar_Cruiser
+  m_EditorClassIdentifier: 
+  prefabSelectionMethod: 1
+  primaryPrefabs:
+  - {fileID: 4820853272280718, guid: 96a552c474534894f8513771ca915ef3, type: 2}
+  secondaryPrefab: {fileID: 4282028698598386, guid: 53386c1ac8411c34db44d98fefeb75c1,
+    type: 2}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  sprite: {fileID: 21300156, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  primaryIdleAnimation: {fileID: 7400004, guid: db17b7879c24d2544ab481e8f48114e7,
+    type: 3}
+  secondaryIdleAnimation: {fileID: 7400000, guid: 25d6d498f08a5994889f870c3245bbbd,
+    type: 3}
+  states:
+  - name: WaitingForActors
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400006, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400004, guid: 25d6d498f08a5994889f870c3245bbbd,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DoorsOpen
+    loopSound: event:/FX/SmartObjects/VehicleCommon/WaitingForActors
+    exitSound: 
+  - name: Leaving
+    animationSpeed: 0.75
+    primaryAnimation: {fileID: 7400026, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 25d6d498f08a5994889f870c3245bbbd,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DriveOff
+    loopSound: 
+    exitSound: 
+  - name: AtEmergency
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400000, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 25d6d498f08a5994889f870c3245bbbd,
+      type: 3}
+    enterSound: 
+    loopSound: 
+    exitSound: 
+  - name: WaitingToReturn
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400000, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 25d6d498f08a5994889f870c3245bbbd,
+      type: 3}
+    enterSound: 
+    loopSound: 
+    exitSound: 
+  - name: ComingBack
+    animationSpeed: 0.75
+    primaryAnimation: {fileID: 7400028, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: ec634d603d78d3c45adbf83a880e2d3d,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/ArriveBack
+    loopSound: 
+    exitSound: 
+  - name: ActorsGettingOut
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400024, guid: db17b7879c24d2544ab481e8f48114e7, type: 3}
+    secondaryAnimation: {fileID: 7400008, guid: 25d6d498f08a5994889f870c3245bbbd,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DoorsClose
+    loopSound: 
+    exitSound: 
+  - name: Broken
+    animationSpeed: 1
+    primaryAnimation: {fileID: 0}
+    secondaryAnimation: {fileID: 0}
+    enterSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Enter
+    loopSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Loop
+    exitSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Exit

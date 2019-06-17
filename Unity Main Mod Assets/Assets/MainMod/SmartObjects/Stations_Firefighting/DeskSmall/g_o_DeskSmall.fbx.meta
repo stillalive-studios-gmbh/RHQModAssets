@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 7494d8268d6d2f6418f19cceeea1bf78
+timeCreated: 1523364043
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Coffe_Mug
+    100002: Cubboard
+    100004: Flowerpot8
+    100006: //RootNode
+    100008: Keyboard
+    100010: Lamp1
+    100012: Maus1
+    100014: Office_Chair
+    100016: PC2
+    100018: PenCub
+    100020: Tabel
+    100022: Wastbasked
+    400000: Coffe_Mug
+    400002: Cubboard
+    400004: Flowerpot8
+    400006: //RootNode
+    400008: Keyboard
+    400010: Lamp1
+    400012: Maus1
+    400014: Office_Chair
+    400016: PC2
+    400018: PenCub
+    400020: Tabel
+    400022: Wastbasked
+    2300000: Coffe_Mug
+    2300002: Cubboard
+    2300004: Flowerpot8
+    2300006: Keyboard
+    2300008: Lamp1
+    2300010: Maus1
+    2300012: Office_Chair
+    2300014: PC2
+    2300016: PenCub
+    2300018: Tabel
+    2300020: Wastbasked
+    3300000: Coffe_Mug
+    3300002: Cubboard
+    3300004: Flowerpot8
+    3300006: Keyboard
+    3300008: Lamp1
+    3300010: Maus1
+    3300012: Office_Chair
+    3300014: PC2
+    3300016: PenCub
+    3300018: Tabel
+    3300020: Wastbasked
+    4300000: Tabel
+    4300002: Office_Chair
+    4300004: PenCub
+    4300006: Coffe_Mug
+    4300008: Cubboard
+    4300010: Wastbasked
+    4300012: Flowerpot8
+    4300014: Lamp1
+    4300016: Maus1
+    4300018: Keyboard
+    4300020: PC2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

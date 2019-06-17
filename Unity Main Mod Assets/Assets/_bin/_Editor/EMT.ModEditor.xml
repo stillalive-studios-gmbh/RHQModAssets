@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EMT.ModEditor</name>
+    </assembly>
+    <members>
+        <member name="T:EMT.ModEditor.AssetBasePostprocessor">
+            <summary>
+            Postprocessor to automatically set the correct asset bundle for all AssetBase inside a mod folder.
+            Uses the asset path name to determine the asset bundle, ie Assets/_mods/MyMod/MyAsset will end up in assetbundle mymod
+            </summary>
+        </member>
+        <member name="M:EMT.ModEditor.AssetBasePostprocessor.GetDesiredAssetBundleName(System.String)">
+            <summary>
+            null when no desired asset bundle name.
+            </summary>
+        </member>
+        <member name="T:EMT.ModEditor.ModToolControlPanelWindow.ModPage">
+            <summary>
+            state of a single mod "edit" page or whatever you wanna call it
+            </summary>
+        </member>
+        <member name="F:EMT.ModEditor.ModToolControlPanelWindow.SteamVdfInfo.PublishedFileId">
+            <summary>
+            0 for non-existent id (= new workshop item).
+            </summary>
+        </member>
+        <member name="F:EMT.ModEditor.ModToolControlPanelWindow.SteamVdfInfo.ContentFolder">
+            <summary>
+            Absolute path to content folder.
+            </summary>
+        </member>
+    </members>
+</doc>

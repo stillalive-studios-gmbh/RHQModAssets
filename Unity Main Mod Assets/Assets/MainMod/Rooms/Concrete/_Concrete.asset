@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1581055387, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Concrete
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300006, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  floorPrefabSelectionMethod: 0
+  floorPrefabs:
+  - {fileID: 4665767346734180, guid: 13340b4fc2769f2438e61e269a640782, type: 2}
+  wallPrefabSelectionMethod: 0
+  wallPrefabs:
+  - {fileID: 4437109885146230, guid: 8f6fe1721a437d2498831ebec1330856, type: 2}
+  wallCorner90Prefab: {fileID: 0}
+  wallCorner180Prefab: {fileID: 0}
+  wallCorner270Prefab: {fileID: 4313803647842654, guid: e793e7002544a5846ae240a80655c8d1,
+    type: 2}
+  wallCorner360Prefab: {fileID: 4053559977874704, guid: e6cee44d2998d664aa2258824320d5d6,
+    type: 2}

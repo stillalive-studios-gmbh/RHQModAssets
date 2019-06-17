@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 200595519, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _HairStyle_Male1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4672190696159904, guid: deb4f6f12c835924e9dc7b67ef9129d1, type: 2}
+  variations:
+  - Material: {fileID: 2100000, guid: 322c741f27c7a4c4d843ddcd83adeaab, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: f0b1e33bab3a7b843a9d9459f5fd6a0b,
+      type: 2}
+  - Material: {fileID: 2100000, guid: 8e990fd0e54af4f47ad89fe9dbb60db8, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: b9a8bcf0ebaaca647b6187e7e8f0c12d,
+      type: 2}
+  - Material: {fileID: 2100000, guid: e68872081e3d4b0459596f2889321d19, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: 19bfdfa44fb27944ca2a6ef1d96a7b12,
+      type: 2}

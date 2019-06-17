@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1581055387, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Kitchen
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300004, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  floorPrefabSelectionMethod: 0
+  floorPrefabs:
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  - {fileID: 4716022444789262, guid: 3a262477c1590cc47b09399b6aecc2d8, type: 2}
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  wallPrefabSelectionMethod: 2
+  wallPrefabs:
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4027232235892840, guid: 3c40044eb91a53d43977043d4a8f94c3, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4666737786877676, guid: 058e7251c3580de48adffd88278d5f9c, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  - {fileID: 4870599867319462, guid: 989c5e1f71e6c6b4b9af8c91bbe2edc0, type: 2}
+  wallCorner90Prefab: {fileID: 0}
+  wallCorner180Prefab: {fileID: 0}
+  wallCorner270Prefab: {fileID: 4108622908542452, guid: 7c42efe51868c444b80faf26a1f9f819,
+    type: 2}
+  wallCorner360Prefab: {fileID: 4601391720418518, guid: 0593d869c3b4e204aa74ad0120cb5f83,
+    type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _SofaChair
+  m_EditorClassIdentifier: 
+  prefabSelectionMethod: 1
+  primaryPrefabs:
+  - {fileID: 4236722480627706, guid: 61817fd5b6db3a141992a8add2caac7d, type: 2}
+  - {fileID: 4800465851909256, guid: 670514a09cff87b48af4743ab0e93509, type: 2}
+  - {fileID: 4800465851909256, guid: 1e8b7ac78288e7544be872726d0e3ed6, type: 2}
+  secondaryPrefab: {fileID: 0}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  sprite: {fileID: 21300146, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  primaryIdleAnimation: {fileID: 0}
+  secondaryIdleAnimation: {fileID: 0}
+  states: []

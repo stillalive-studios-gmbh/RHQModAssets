@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 09aa9ad2d8273a04ab719671103fe669
+timeCreated: 1554125325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: door_back_L
+    100002: door_back_R
+    100004: door_handle01
+    100006: door_handle02
+    100008: door_L
+    100010: door_R
+    100012: //RootNode
+    100014: wheel_F_R1
+    100016: wheel_F_R2
+    100018: wheel_F_R3
+    100020: wheel_F_R4
+    100022: _Axis
+    100024: _Root
+    100026: a_Vehicle
+    100028: Door_LF
+    100030: Door_LF_end
+    100032: Door_LR
+    100034: Door_LR_end
+    100036: Door_RF
+    100038: Door_RF_end
+    100040: Door_RR
+    100042: Door_RR_end
+    100044: FrontAxis
+    100046: FrontAxis_end
+    100048: MidAxis
+    100050: MidAxis_end
+    100052: RearAxis
+    100054: RearAxis_end
+    100056: Ambulance_AmBus
+    400000: door_back_L
+    400002: door_back_R
+    400004: door_handle01
+    400006: door_handle02
+    400008: door_L
+    400010: door_R
+    400012: //RootNode
+    400014: wheel_F_R1
+    400016: wheel_F_R2
+    400018: wheel_F_R3
+    400020: wheel_F_R4
+    400022: _Axis
+    400024: _Root
+    400026: a_Vehicle
+    400028: Door_LF
+    400030: Door_LF_end
+    400032: Door_LR
+    400034: Door_LR_end
+    400036: Door_RF
+    400038: Door_RF_end
+    400040: Door_RR
+    400042: Door_RR_end
+    400044: FrontAxis
+    400046: FrontAxis_end
+    400048: MidAxis
+    400050: MidAxis_end
+    400052: RearAxis
+    400054: RearAxis_end
+    400056: Ambulance_AmBus
+    2300000: door_back_L
+    2300002: door_back_R
+    2300004: door_handle01
+    2300006: door_handle02
+    2300008: door_L
+    2300010: door_R
+    2300012: //RootNode
+    2300014: wheel_F_R1
+    2300016: wheel_F_R2
+    2300018: wheel_F_R3
+    2300020: wheel_F_R4
+    3300000: door_back_L
+    3300002: door_back_R
+    3300004: door_handle01
+    3300006: door_handle02
+    3300008: door_L
+    3300010: door_R
+    3300012: //RootNode
+    3300014: wheel_F_R1
+    3300016: wheel_F_R2
+    3300018: wheel_F_R3
+    3300020: wheel_F_R4
+    4300000: ambulancebus_hull2
+    4300002: wheel_F_R4
+    4300004: wheel_F_R3
+    4300006: wheel_F_R2
+    4300008: wheel_F_R1
+    4300010: door_L
+    4300012: door_R
+    4300014: door_back_L
+    4300016: door_handle02
+    4300018: door_back_R
+    4300020: door_handle01
+    4300022: Ambulance_AmBus
+    7400000: Vehicle_Idle
+    7400002: Vehicle_OpenDoors
+    7400004: Vehicle_WiggleRight
+    7400006: Vehicle_WiggleLeft
+    7400008: Vehicle_CloseDoors
+    7400010: Vehicle_DriveOff_REMOVEAFTERREWORK
+    7400012: Vehicle_Away_REMOVEAFTERREWORK
+    7400014: Vehicle_ComeBack_REMOVEAFTERREWORK
+    7400016: AmBus_Idle
+    7400018: Ambus_OpenDoors
+    7400020: AmBus_WiggleRight
+    7400022: AmBus_WiggleLeft
+    7400024: AmBus_CloseDoors
+    7400026: AmBus_DriveOff_REMOVEAFTERREWORK
+    7400028: AmBus_Away_REMOVEAFTERREWORK
+    7400030: AmBus_ComeBack_REMOVEAFTERREWORK
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: door_back_R
+    13700002: Ambulance_AmBus
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AmBus_Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ambus_OpenDoors
+      takeName: Default Take
+      firstFrame: 11
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_WiggleRight
+      takeName: Default Take
+      firstFrame: 23
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_WiggleLeft
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_CloseDoors
+      takeName: Default Take
+      firstFrame: 48
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_DriveOff_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 48
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_Away_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AmBus_ComeBack_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 75
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: a_Vehicle
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

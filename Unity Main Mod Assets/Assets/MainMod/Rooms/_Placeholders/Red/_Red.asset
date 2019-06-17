@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1581055387, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Red
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  floorPrefabSelectionMethod: 0
+  floorPrefabs:
+  - {fileID: 4716022444789262, guid: 0f75880d06903f840bc1a59245122a83, type: 2}
+  wallPrefabSelectionMethod: 0
+  wallPrefabs:
+  - {fileID: 4675587365493220, guid: 720be9a13a53b6a438e7038cbb08ef99, type: 2}
+  wallCorner90Prefab: {fileID: 0}
+  wallCorner180Prefab: {fileID: 0}
+  wallCorner270Prefab: {fileID: 0}
+  wallCorner360Prefab: {fileID: 0}

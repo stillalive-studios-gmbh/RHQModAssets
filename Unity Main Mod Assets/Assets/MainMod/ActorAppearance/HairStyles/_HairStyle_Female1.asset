@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 200595519, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _HairStyle_Female1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4480317482988400, guid: 36d5da01c0758a842986511e264a20a6, type: 2}
+  variations:
+  - Material: {fileID: 2100000, guid: 322c741f27c7a4c4d843ddcd83adeaab, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: 61730194e729ece43a60444e9163e2db,
+      type: 2}
+  - Material: {fileID: 2100000, guid: 8e990fd0e54af4f47ad89fe9dbb60db8, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: e8c169efa3af41245be9eaa3f5c8dd1c,
+      type: 2}
+  - Material: {fileID: 2100000, guid: e68872081e3d4b0459596f2889321d19, type: 2}
+    UiPrefab: {fileID: 224845558559383412, guid: f49e6ea8908b6d940bfbeba6c9d8e65c,
+      type: 2}

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EMT.Assets</name>
+    </assembly>
+    <members>
+        <member name="T:EMT.Assets.UniformAsset">
+            <summary>
+            Note that a uniform is more than just the clothes of an actor - it replaces the entire prefab specified in the ActorAsset.
+            </summary>
+        </member>
+        <member name="F:EMT.Assets.AssistantTutorialAsset.Page.Image">
+            <summary>Image to display</summary>
+        </member>
+        <member name="F:EMT.Assets.AssistantTutorialAsset.Page.TitleKey">
+            <summary>Localization key for title to display.</summary>
+        </member>
+        <member name="T:EMT.Assets.Components.Animation_TimeOfDay">
+            <summary>
+            Controls an Animation component, based on normalized time of day.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.AssetComponent">
+            <summary>
+            Base class for components that can be used on RHQ assets.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.CheckQualityLevel">
+            <summary>
+            Activates/deactivates a target GameObject based on current quality setting.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.SmartObject_ItemSlot">
+            <summary>
+            Shows the item prefab for the n-th item slot of a SmartObject.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.SmartObject_ObjectActivator">
+            <summary>
+            Activates/deactivates target GameObjects based on the state of the SmartObject type.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.VehicleRoot">
+            <summary>
+            For ground vehicles, this component can be attached to any GameObject in its SmartObject prefab.
+            It is used to handle driving animations automatically, using the GameObject it is attached to as root, so other stuff like garage is not moved around.
+            </summary>
+        </member>
+        <member name="T:EMT.Assets.Components.LevelSoundsConfig">
+            <summary>
+            There should be at most one instance of this component in a level.
+            Defines fmod sound event names for sounds that may be overridden by a level.
+            </summary>
+        </member>
+        <member name="M:EMT.Assets.Components.LevelSoundsConfig.GetSoundOverride(System.String)">
+            <summary>
+            quick lookup to allow overrides of sounds.
+            returns input if no override found.
+            </summary>
+        </member>
+    </members>
+</doc>

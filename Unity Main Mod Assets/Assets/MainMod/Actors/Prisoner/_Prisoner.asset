@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -354721516, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Prisoner
+  m_EditorClassIdentifier: 
+  prefabMale: {fileID: 4645576429567300, guid: cc8e72b66d6be8a46ac467f0c89e32c4, type: 2}
+  prefabFemale: {fileID: 4645576429567300, guid: cc8e72b66d6be8a46ac467f0c89e32c4,
+    type: 2}
+  sprite: {fileID: 0}
+  noItemIdleAnimation: {fileID: 7400002, guid: c0d98400fb258014289305a146e24476, type: 3}
+  noItemWalkAnimations:
+  - speed: 1.3
+    animation: {fileID: 7400004, guid: 7be36ebbc03badb458f6518223fed8b0, type: 3}
+  itemIdleAnimation: {fileID: 7400002, guid: c0d98400fb258014289305a146e24476, type: 3}
+  itemWalkAnimations:
+  - speed: 1.3
+    animation: {fileID: 7400004, guid: 7be36ebbc03badb458f6518223fed8b0, type: 3}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1664505273, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: SoundOverrides_US
+  m_EditorClassIdentifier: 
+  entries:
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/ArriveBack
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/Ambulance/ArriveBack
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DoorsClose
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/Ambulance/DoorsClose
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DoorsOpen
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/Ambulance/DoorsOpen
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DriveOff
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/Ambulance/DriveOff
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/FireEngine/ArriveBack
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/FireEngine/ArriveBack
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/FireEngine/DoorsClose
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/FireEngine/DoorsClose
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/FireEngine/DoorsOpen
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/FireEngine/DoorsOpen
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/FireEngine/DriveOff
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/FireEngine/DriveOff
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/ArriveBack
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/PoliceCar/ArriveBack
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DoorsClose
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/PoliceCar/DoorsClose
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DoorsOpen
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/PoliceCar/DoorsOpen
+  - Original: event:/FX/SmartObjects/Vehicles_ScenarioEU/PoliceCar/DriveOff
+    Replaced: event:/FX/SmartObjects/Vehicles_ScenarioUS/PoliceCar/DriveOff

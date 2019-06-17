@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1581055387, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Medical
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300368, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  floorPrefabSelectionMethod: 0
+  floorPrefabs:
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  - {fileID: 4716022444789262, guid: f138a2bddf31a904ab0770a27a1795a4, type: 2}
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  - {fileID: 4716022444789262, guid: a152f70111452c745b3ea7ca9c810401, type: 2}
+  wallPrefabSelectionMethod: 0
+  wallPrefabs:
+  - {fileID: 4675587365493220, guid: 558c8c714c18b944ea18b20e8195b0aa, type: 2}
+  wallCorner90Prefab: {fileID: 0}
+  wallCorner180Prefab: {fileID: 0}
+  wallCorner270Prefab: {fileID: 4058964191008292, guid: 26fbcc97fafbb4642a507d715b3dd51a,
+    type: 2}
+  wallCorner360Prefab: {fileID: 4055057798083386, guid: 37f1a2b61e489d948bd99ddd7b0cbc5f,
+    type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _MedicineLab
+  m_EditorClassIdentifier: 
+  prefabPreview: {fileID: 4453364067025978, guid: 79e141270116a0643ba60fce0b2abd88,
+    type: 2}
+  prefabSelectionMethod: 1
+  prefabs:
+  - {fileID: 4453364067025978, guid: 79e141270116a0643ba60fce0b2abd88, type: 2}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  cardboardOriginPrefab: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 6d3c4c2cdc7e349458568b3e1d9db119, type: 3}
+  idleAnimation: {fileID: 0}
+  states: []

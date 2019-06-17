@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: f4d4365e69f2da04a940f658277e75a2
+timeCreated: 1554720387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door_L_back
+    100002: Door_L_Front
+    100004: Door_R_Back
+    100006: Door_R_Front
+    100008: //RootNode
+    100010: ladder
+    100012: ladder2
+    100014: ladder_base
+    100016: ladder_pivot
+    100018: ladderbox
+    100020: ladderboxjnt
+    100022: ladderboxjnt1
+    100024: ladderholder
+    100026: _Axis
+    100028: _Root
+    100030: a_Vehicle
+    100032: Door_LF
+    100034: Door_LF_end
+    100036: Door_LR
+    100038: Door_LR_end
+    100040: Door_RF
+    100042: Door_RF_end
+    100044: Door_RR
+    100046: Door_RR_end
+    100048: FireEngine_US
+    100050: FrontAxis
+    100052: FrontAxis_end
+    100054: MidAxis
+    100056: MidAxis_end
+    100058: RearAxis
+    100060: RearAxis_end
+    400000: Door_L_back
+    400002: Door_L_Front
+    400004: Door_R_Back
+    400006: Door_R_Front
+    400008: //RootNode
+    400010: ladder
+    400012: ladder2
+    400014: ladder_base
+    400016: ladder_pivot
+    400018: ladderbox
+    400020: ladderboxjnt
+    400022: ladderboxjnt1
+    400024: ladderholder
+    400026: _Axis
+    400028: _Root
+    400030: a_Vehicle
+    400032: Door_LF
+    400034: Door_LF_end
+    400036: Door_LR
+    400038: Door_LR_end
+    400040: Door_RF
+    400042: Door_RF_end
+    400044: Door_RR
+    400046: Door_RR_end
+    400048: FireEngine_US
+    400050: FrontAxis
+    400052: FrontAxis_end
+    400054: MidAxis
+    400056: MidAxis_end
+    400058: RearAxis
+    400060: RearAxis_end
+    2300000: Door_L_back
+    2300002: Door_L_Front
+    2300004: Door_R_Back
+    2300006: Door_R_Front
+    2300008: //RootNode
+    2300010: ladder
+    2300012: ladder2
+    2300014: ladder_base
+    2300016: ladder_pivot
+    2300018: ladderbox
+    2300020: ladderboxjnt
+    2300022: ladderboxjnt1
+    2300024: ladderholder
+    2300026: FireEngine_US
+    3300000: Door_L_back
+    3300002: Door_L_Front
+    3300004: Door_R_Back
+    3300006: Door_R_Front
+    3300008: //RootNode
+    3300010: ladder
+    3300012: ladder2
+    3300014: ladder_base
+    3300016: ladder_pivot
+    3300018: ladderbox
+    3300020: ladderboxjnt
+    3300022: ladderboxjnt1
+    3300024: ladderholder
+    3300026: FireEngine_US
+    4300000: Fire_truck_4
+    4300002: ladder_base
+    4300004: ladderholder
+    4300006: ladder_pivot
+    4300008: ladder
+    4300010: ladder2
+    4300012: ladderbox
+    4300014: ladderboxjnt
+    4300016: ladderboxjnt1
+    4300018: Door_L_back
+    4300020: Door_R_Front
+    4300022: Door_L_Front
+    4300024: Door_R_Back
+    4300026: FireEngine_US
+    7400000: USFE_Idle
+    7400002: a_VehicleAction
+    7400004: USFE_OpenDoors
+    7400006: USFE_WiggleRight
+    7400008: USFE_WiggleLeft
+    7400010: USFE_CloseDoors
+    7400012: USFE_DriveOff_REMOVEAFTERREWORK
+    7400014: USFE_Away_REMOVEAFTERREWORK
+    7400016: USFE_ComeBack_REMOVEAFTERREWORK
+    9500000: //RootNode
+    13700000: FireEngine_US
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: USFE_Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_OpenDoors
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_WiggleRight
+      takeName: Default Take
+      firstFrame: 24
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_WiggleLeft
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_CloseDoors
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_DriveOff_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_Away_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: USFE_ComeBack_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 75
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: a_Vehicle
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

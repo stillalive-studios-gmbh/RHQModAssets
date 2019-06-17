@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1721338531, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _FireFighterUniform_US_F
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4716635058906990, guid: 87b0f090f1f5169408ae4d60de2b33b6, type: 2}

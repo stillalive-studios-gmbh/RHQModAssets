@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 4e4e0dcfd348293429760829edc38fbb
+timeCreated: 1557733059
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _ROOT
+    100004: a_NPC_M
+    100006: Foot.l
+    100008: Foot.l_end
+    100010: Foot.r
+    100012: Foot.r_end
+    100014: Hand.l
+    100016: Hand.l_end
+    100018: Hand.r
+    100020: Hand.r_end
+    100022: Head
+    100024: Head_end
+    100026: LowerArm.l
+    100028: LowerArm.r
+    100030: LowerLeg.l
+    100032: LowerLeg.r
+    100034: Medic_US_M
+    100036: Neck
+    100038: Pelvis
+    100040: Shoulder.l
+    100042: Shoulder.r
+    100044: Spine
+    100046: UpperArm.l
+    100048: UpperArm.r
+    100050: UpperLeg.l
+    100052: UpperLeg.r
+    100054: Foot_l
+    100056: Foot_r
+    100058: Hand_l
+    100060: Hand_r
+    100062: LowerArm_l
+    100064: LowerArm_r
+    100066: LowerLeg_l
+    100068: LowerLeg_r
+    100070: Shoulder_l
+    100072: Shoulder_r
+    100074: UpperArm_l
+    100076: UpperArm_r
+    100078: UpperLeg_l
+    100080: UpperLeg_r
+    400000: //RootNode
+    400002: _ROOT
+    400004: a_NPC_M
+    400006: Foot.l
+    400008: Foot.l_end
+    400010: Foot.r
+    400012: Foot.r_end
+    400014: Hand.l
+    400016: Hand.l_end
+    400018: Hand.r
+    400020: Hand.r_end
+    400022: Head
+    400024: Head_end
+    400026: LowerArm.l
+    400028: LowerArm.r
+    400030: LowerLeg.l
+    400032: LowerLeg.r
+    400034: Medic_US_M
+    400036: Neck
+    400038: Pelvis
+    400040: Shoulder.l
+    400042: Shoulder.r
+    400044: Spine
+    400046: UpperArm.l
+    400048: UpperArm.r
+    400050: UpperLeg.l
+    400052: UpperLeg.r
+    400054: Foot_l
+    400056: Foot_r
+    400058: Hand_l
+    400060: Hand_r
+    400062: LowerArm_l
+    400064: LowerArm_r
+    400066: LowerLeg_l
+    400068: LowerLeg_r
+    400070: Shoulder_l
+    400072: Shoulder_r
+    400074: UpperArm_l
+    400076: UpperArm_r
+    400078: UpperLeg_l
+    400080: UpperLeg_r
+    2300000: //RootNode
+    2300002: Medic_US_M
+    3300000: //RootNode
+    3300002: Medic_US_M
+    4300000: Medic_US_M
+    13700000: Medic_US_M
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

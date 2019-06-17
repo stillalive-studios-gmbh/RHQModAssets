@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _RoomRadiology_New
+  m_EditorClassIdentifier: 
+  prefabPreview: {fileID: 4562711165547278, guid: 3b9ff90eca445e142b3a8ae666b0d1ca,
+    type: 2}
+  prefabSelectionMethod: 1
+  prefabs:
+  - {fileID: 4562711165547278, guid: 3b9ff90eca445e142b3a8ae666b0d1ca, type: 2}
+  - {fileID: 4909649963904478, guid: 2c8ceaa7ff85193489cb1d01d4a82087, type: 2}
+  - {fileID: 4016031090276030, guid: 42fcbca3307de6a4098562e4ff1dce17, type: 2}
+  - {fileID: 4508489792639008, guid: 980b2d7ee11b19f4cb5ae39c063280bf, type: 2}
+  cardboardCellPrefab: {fileID: 0}
+  cardboardOriginPrefab: {fileID: 0}
+  sprite: {fileID: 21300054, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  idleAnimation: {fileID: 0}
+  states: []

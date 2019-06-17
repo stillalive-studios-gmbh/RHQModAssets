@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -629752451, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Toilet_01_peeing
+  m_EditorClassIdentifier: 
+  actor:
+    idle: {fileID: 7400012, guid: 7be36ebbc03badb458f6518223fed8b0, type: 3}
+    walkSpeed: 1
+    walk: {fileID: 7400006, guid: 7be36ebbc03badb458f6518223fed8b0, type: 3}
+    enter: {fileID: 7400006, guid: c0d98400fb258014289305a146e24476, type: 3}
+    loop: {fileID: 7400008, guid: c0d98400fb258014289305a146e24476, type: 3}
+    exit: {fileID: 7400010, guid: c0d98400fb258014289305a146e24476, type: 3}
+  smartObject:
+    enter: {fileID: 0}
+    loop: {fileID: 0}
+    exit: {fileID: 0}
+  activitySounds:
+    Enter: event:/FX/SmartObjects/Toilet_01/Enter
+    Loop: event:/FX/SmartObjects/Toilet_01/Loop
+    Exit: event:/FX/SmartObjects/Toilet_01/Exit
+  activityPrefabs:
+    DuringLoop: {fileID: 1571216959713026, guid: 49824e5df30f04f4f9928ab99689f6d8,
+      type: 2}

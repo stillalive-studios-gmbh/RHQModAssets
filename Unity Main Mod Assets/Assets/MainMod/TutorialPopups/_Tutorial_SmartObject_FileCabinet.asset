@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2120631180, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Tutorial_SmartObject_FileCabinet
+  m_EditorClassIdentifier: 
+  titleKey: tutorial_Paperwork_Title
+  textKey: tutorial_Paperwork
+  image: {fileID: 224547976172348930, guid: afc6d1ca1fa4d8041a506bb44f8beb19, type: 2}

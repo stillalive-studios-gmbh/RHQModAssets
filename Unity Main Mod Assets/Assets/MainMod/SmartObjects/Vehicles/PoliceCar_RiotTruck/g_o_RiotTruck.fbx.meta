@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: b35bf533ca231c64a80cb1d7d8390ec6
+timeCreated: 1554124486
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_door_L
+    100002: back_door_R
+    100004: door_handle2
+    100006: door_handle4
+    100008: door_handle8
+    100010: door_handle9
+    100012: Door_L_F
+    100014: Door_L_F2
+    100016: Door_L_F2 1
+    100018: Door_R_F
+    100020: //RootNode
+    100022: mirror_L
+    100024: mirror_R
+    100026: Tire01
+    100028: Tire02
+    100030: Tire11
+    100032: Tire12
+    100034: water_cannon_L
+    100036: water_cannon_R
+    100038: _Axis
+    100040: _Root
+    100042: a_Vehicle
+    100044: Door_LF
+    100046: Door_LF_end
+    100048: Door_LR
+    100050: Door_LR_end
+    100052: Door_RF
+    100054: Door_RF_end
+    100056: Door_RR
+    100058: Door_RR_end
+    100060: FrontAxis
+    100062: FrontAxis_end
+    100064: MidAxis
+    100066: MidAxis_end
+    100068: Police_RiotTruck
+    100070: RearAxis
+    100072: RearAxis_end
+    400000: back_door_L
+    400002: back_door_R
+    400004: door_handle2
+    400006: door_handle4
+    400008: door_handle8
+    400010: door_handle9
+    400012: Door_L_F
+    400014: Door_L_F2
+    400016: Door_L_F2 1
+    400018: Door_R_F
+    400020: //RootNode
+    400022: mirror_L
+    400024: mirror_R
+    400026: Tire01
+    400028: Tire02
+    400030: Tire11
+    400032: Tire12
+    400034: water_cannon_L
+    400036: water_cannon_R
+    400038: _Axis
+    400040: _Root
+    400042: a_Vehicle
+    400044: Door_LF
+    400046: Door_LF_end
+    400048: Door_LR
+    400050: Door_LR_end
+    400052: Door_RF
+    400054: Door_RF_end
+    400056: Door_RR
+    400058: Door_RR_end
+    400060: FrontAxis
+    400062: FrontAxis_end
+    400064: MidAxis
+    400066: MidAxis_end
+    400068: Police_RiotTruck
+    400070: RearAxis
+    400072: RearAxis_end
+    2300000: back_door_L
+    2300002: back_door_R
+    2300004: door_handle2
+    2300006: door_handle4
+    2300008: door_handle8
+    2300010: door_handle9
+    2300012: Door_L_F
+    2300014: Door_L_F2
+    2300016: Door_L_F2 1
+    2300018: Door_R_F
+    2300020: //RootNode
+    2300022: mirror_L
+    2300024: mirror_R
+    2300026: Tire01
+    2300028: Tire02
+    2300030: Tire11
+    2300032: Tire12
+    2300034: water_cannon_L
+    2300036: water_cannon_R
+    2300038: Police_RiotTruck
+    3300000: back_door_L
+    3300002: back_door_R
+    3300004: door_handle2
+    3300006: door_handle4
+    3300008: door_handle8
+    3300010: door_handle9
+    3300012: Door_L_F
+    3300014: Door_L_F2
+    3300016: Door_L_F2 1
+    3300018: Door_R_F
+    3300020: //RootNode
+    3300022: mirror_L
+    3300024: mirror_R
+    3300026: Tire01
+    3300028: Tire02
+    3300030: Tire11
+    3300032: Tire12
+    3300034: water_cannon_L
+    3300036: water_cannon_R
+    3300038: Police_RiotTruck
+    4300000: RiotTruck2
+    4300002: Tire02
+    4300004: Tire01
+    4300006: Door_R_F
+    4300008: mirror_R
+    4300010: door_handle2
+    4300012: Door_L_F2
+    4300014: Door_L_F
+    4300016: mirror_L
+    4300018: door_handle4
+    4300020: Door_L_F2
+    4300022: back_door_L
+    4300024: door_handle9
+    4300026: back_door_R
+    4300028: door_handle8
+    4300030: water_cannon_R
+    4300032: water_cannon_L
+    4300034: Tire12
+    4300036: Tire11
+    4300038: Police_RiotTruck
+    7400000: RiotTruck_Idle
+    7400002: a_VehicleAction
+    7400004: RiotTruck_OpenDoors
+    7400006: RiotTruck_WiggleRight
+    7400008: RiotTruck_WiggleLeft
+    7400010: RiotTruck_CloseDoors
+    7400012: RiotTruck_DriveOff_REMOVEAFTERREWORK
+    7400014: RiotTruck_Away_REMOVEAFTERREWORK
+    7400016: RiotTruck_ComeBack_REMOVEAFTERREWORK
+    9500000: //RootNode
+    13700000: Police_RiotTruck
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RiotTruck_Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_OpenDoors
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_WiggleRight
+      takeName: Default Take
+      firstFrame: 24
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_WiggleLeft
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_CloseDoors
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_DriveOff_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_Away_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RiotTruck_ComeBack_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 75
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: a_Vehicle
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

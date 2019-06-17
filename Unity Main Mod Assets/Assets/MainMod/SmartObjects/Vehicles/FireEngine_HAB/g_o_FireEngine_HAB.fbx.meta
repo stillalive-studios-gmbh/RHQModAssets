@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 59676ba03ef1f5e47ab532752ae4d38a
+timeCreated: 1554193066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_seat
+    100002: box
+    100004: door_handle2
+    100006: door_handle4
+    100008: Door_L_F
+    100010: Door_R_F
+    100012: Front_seat
+    100014: //RootNode
+    100016: HAB_base
+    100018: lift
+    100020: lift_2
+    100022: lift_3
+    100024: lift_5
+    100026: lift_base
+    100028: lift_hydraulic_bottom
+    100030: lift_hydraulic_top
+    100032: lift_pneumatic_a
+    100034: lift_pneumatic_b
+    100036: liift_4
+    100038: mirror_L
+    100040: mirror_R
+    100042: pCube131
+    100044: pCube131 1
+    100046: pCube131 2
+    100048: pCube131 3
+    100050: pCylinder37
+    100052: pCylinder37 1
+    100054: pCylinder37 2
+    100056: pCylinder37 3
+    100058: polySurface179
+    100060: polySurface180
+    100062: polySurface180 1
+    100064: polySurface180 2
+    100066: polySurface180 3
+    100068: polySurface181
+    100070: polySurface181 1
+    100072: polySurface181 2
+    100074: polySurface181 3
+    100076: polySurface182
+    100078: polySurface182 1
+    100080: polySurface182 2
+    100082: polySurface182 3
+    100084: polySurface188
+    100086: polySurface189
+    100088: polySurface190
+    100090: support_legs
+    100092: Tire01
+    100094: Tire02
+    100096: Tire03
+    100098: Tire04
+    100100: Tire05
+    100102: Tire06
+    100104: Tire07
+    100106: Tire08
+    100108: _Axis
+    100110: _Root
+    100112: a_Vehicle
+    100114: Door_LF
+    100116: Door_LF_end
+    100118: Door_LR
+    100120: Door_LR_end
+    100122: Door_RF
+    100124: Door_RF_end
+    100126: Door_RR
+    100128: Door_RR_end
+    100130: FrontAxis
+    100132: FrontAxis_end
+    100134: MidAxis
+    100136: MidAxis_end
+    100138: RearAxis
+    100140: RearAxis_end
+    400000: back_seat
+    400002: box
+    400004: door_handle2
+    400006: door_handle4
+    400008: Door_L_F
+    400010: Door_R_F
+    400012: Front_seat
+    400014: //RootNode
+    400016: HAB_base
+    400018: lift
+    400020: lift_2
+    400022: lift_3
+    400024: lift_5
+    400026: lift_base
+    400028: lift_hydraulic_bottom
+    400030: lift_hydraulic_top
+    400032: lift_pneumatic_a
+    400034: lift_pneumatic_b
+    400036: liift_4
+    400038: mirror_L
+    400040: mirror_R
+    400042: pCube131
+    400044: pCube131 1
+    400046: pCube131 2
+    400048: pCube131 3
+    400050: pCylinder37
+    400052: pCylinder37 1
+    400054: pCylinder37 2
+    400056: pCylinder37 3
+    400058: polySurface179
+    400060: polySurface180
+    400062: polySurface180 1
+    400064: polySurface180 2
+    400066: polySurface180 3
+    400068: polySurface181
+    400070: polySurface181 1
+    400072: polySurface181 2
+    400074: polySurface181 3
+    400076: polySurface182
+    400078: polySurface182 1
+    400080: polySurface182 2
+    400082: polySurface182 3
+    400084: polySurface188
+    400086: polySurface189
+    400088: polySurface190
+    400090: support_legs
+    400092: Tire01
+    400094: Tire02
+    400096: Tire03
+    400098: Tire04
+    400100: Tire05
+    400102: Tire06
+    400104: Tire07
+    400106: Tire08
+    400108: _Axis
+    400110: _Root
+    400112: a_Vehicle
+    400114: Door_LF
+    400116: Door_LF_end
+    400118: Door_LR
+    400120: Door_LR_end
+    400122: Door_RF
+    400124: Door_RF_end
+    400126: Door_RR
+    400128: Door_RR_end
+    400130: FrontAxis
+    400132: FrontAxis_end
+    400134: MidAxis
+    400136: MidAxis_end
+    400138: RearAxis
+    400140: RearAxis_end
+    2300000: back_seat
+    2300002: box
+    2300004: door_handle2
+    2300006: door_handle4
+    2300008: Door_L_F
+    2300010: Door_R_F
+    2300012: Front_seat
+    2300014: HAB_base
+    2300016: lift
+    2300018: lift_2
+    2300020: lift_3
+    2300022: lift_5
+    2300024: lift_base
+    2300026: lift_hydraulic_bottom
+    2300028: lift_hydraulic_top
+    2300030: lift_pneumatic_a
+    2300032: lift_pneumatic_b
+    2300034: liift_4
+    2300036: mirror_L
+    2300038: mirror_R
+    2300040: pCylinder37
+    2300042: pCylinder37 1
+    2300044: pCylinder37 2
+    2300046: pCylinder37 3
+    2300048: polySurface179
+    2300050: polySurface180
+    2300052: polySurface180 1
+    2300054: polySurface180 2
+    2300056: polySurface180 3
+    2300058: polySurface181
+    2300060: polySurface181 1
+    2300062: polySurface181 2
+    2300064: polySurface181 3
+    2300066: polySurface182
+    2300068: polySurface182 1
+    2300070: polySurface182 2
+    2300072: polySurface182 3
+    2300074: polySurface188
+    2300076: polySurface189
+    2300078: polySurface190
+    2300080: Tire01
+    2300082: Tire02
+    2300084: Tire03
+    2300086: Tire04
+    2300088: Tire05
+    2300090: Tire06
+    2300092: Tire07
+    2300094: Tire08
+    3300000: back_seat
+    3300002: box
+    3300004: door_handle2
+    3300006: door_handle4
+    3300008: Door_L_F
+    3300010: Door_R_F
+    3300012: Front_seat
+    3300014: HAB_base
+    3300016: lift
+    3300018: lift_2
+    3300020: lift_3
+    3300022: lift_5
+    3300024: lift_base
+    3300026: lift_hydraulic_bottom
+    3300028: lift_hydraulic_top
+    3300030: lift_pneumatic_a
+    3300032: lift_pneumatic_b
+    3300034: liift_4
+    3300036: mirror_L
+    3300038: mirror_R
+    3300040: pCylinder37
+    3300042: pCylinder37 1
+    3300044: pCylinder37 2
+    3300046: pCylinder37 3
+    3300048: polySurface179
+    3300050: polySurface180
+    3300052: polySurface180 1
+    3300054: polySurface180 2
+    3300056: polySurface180 3
+    3300058: polySurface181
+    3300060: polySurface181 1
+    3300062: polySurface181 2
+    3300064: polySurface181 3
+    3300066: polySurface182
+    3300068: polySurface182 1
+    3300070: polySurface182 2
+    3300072: polySurface182 3
+    3300074: polySurface188
+    3300076: polySurface189
+    3300078: polySurface190
+    3300080: Tire01
+    3300082: Tire02
+    3300084: Tire03
+    3300086: Tire04
+    3300088: Tire05
+    3300090: Tire06
+    3300092: Tire07
+    3300094: Tire08
+    4300000: HAB_base
+    4300002: lift_base
+    4300004: lift
+    4300006: lift_2
+    4300008: lift_3
+    4300010: liift_4
+    4300012: lift_pneumatic_b
+    4300014: lift_pneumatic_a
+    4300016: lift_5
+    4300018: box
+    4300020: lift_hydraulic_top
+    4300022: lift_hydraulic_bottom
+    4300024: polySurface179
+    4300026: polySurface180
+    4300028: polySurface181
+    4300030: polySurface182
+    4300032: pCylinder37
+    4300034: polySurface188
+    4300036: polySurface180
+    4300038: polySurface181
+    4300040: polySurface182
+    4300042: pCylinder37
+    4300044: polySurface189
+    4300046: polySurface180
+    4300048: polySurface181
+    4300050: polySurface182
+    4300052: pCylinder37
+    4300054: polySurface190
+    4300056: polySurface180
+    4300058: polySurface181
+    4300060: polySurface182
+    4300062: pCylinder37
+    4300064: Tire02
+    4300066: Tire01
+    4300068: Tire03
+    4300070: Tire04
+    4300072: Tire05
+    4300074: Tire06
+    4300076: Tire08
+    4300078: Tire07
+    4300080: Door_L_F
+    4300082: mirror_L
+    4300084: door_handle4
+    4300086: Door_R_F
+    4300088: mirror_R
+    4300090: door_handle2
+    4300092: Front_seat
+    4300094: back_seat
+    7400000: HAB_Idle
+    7400002: a_VehicleAction
+    7400004: HAB_OpenDoors
+    7400006: HAB_WiggleRight
+    7400008: HAB_WiggleLeft
+    7400010: HAB_CloseDoors
+    7400012: HAB_DriveOff_REMOVEAFTERREWORK
+    7400014: HAB_Away_REMOVEAFTERREWORK
+    7400016: HAB_ComeBack_REMOVEAFTERREWORK
+    9500000: //RootNode
+    13700000: HAB_base
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HAB_Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_OpenDoors
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_WiggleRight
+      takeName: Default Take
+      firstFrame: 24
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_WiggleLeft
+      takeName: Default Take
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_CloseDoors
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_DriveOff_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 47
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_Away_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HAB_ComeBack_REMOVEAFTERREWORK
+      takeName: Default Take
+      firstFrame: 75
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: a_Vehicle
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

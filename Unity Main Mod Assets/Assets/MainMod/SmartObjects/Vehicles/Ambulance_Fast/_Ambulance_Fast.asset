@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1181655664, guid: d4314b6796d4f6546966989d92985a24, type: 3}
+  m_Name: _Ambulance_Fast
+  m_EditorClassIdentifier: 
+  prefabSelectionMethod: 1
+  primaryPrefabs:
+  - {fileID: 4383961008222112, guid: c18162b00af13304fbd16970aa4901c3, type: 2}
+  secondaryPrefab: {fileID: 4015905025437160, guid: 4560dafdee3b09f4aa7a77d3eb4c838f,
+    type: 2}
+  cardboardCellPrefab: {fileID: 422866, guid: 0938038a782ebad42825014b4ec5013e, type: 2}
+  sprite: {fileID: 21300136, guid: a6506d40cdb131e49a6b6ab335504f0e, type: 3}
+  primaryIdleAnimation: {fileID: 7400000, guid: a078be3f1302d2740a05a35592dc9b38,
+    type: 3}
+  secondaryIdleAnimation: {fileID: 7400000, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+    type: 3}
+  states:
+  - name: WaitingForActors
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400004, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400004, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DoorsOpen
+    loopSound: event:/FX/SmartObjects/VehicleCommon/WaitingForActors
+    exitSound: 
+  - name: Leaving
+    animationSpeed: 0.75
+    primaryAnimation: {fileID: 7400012, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DriveOff
+    loopSound: 
+    exitSound: 
+  - name: AtEmergency
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400014, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: 
+    loopSound: 
+    exitSound: 
+  - name: WaitingToReturn
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400014, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: 
+    loopSound: 
+    exitSound: 
+  - name: ComingBack
+    animationSpeed: 0.75
+    primaryAnimation: {fileID: 7400016, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400006, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/ArriveBack
+    loopSound: 
+    exitSound: 
+  - name: ActorsGettingOut
+    animationSpeed: 1
+    primaryAnimation: {fileID: 7400010, guid: a078be3f1302d2740a05a35592dc9b38, type: 3}
+    secondaryAnimation: {fileID: 7400008, guid: 1c216a4a7b7f13c42923d8a82d80ed26,
+      type: 3}
+    enterSound: event:/FX/SmartObjects/Vehicles_ScenarioEU/Ambulance/DoorsClose
+    loopSound: 
+    exitSound: 
+  - name: Broken
+    animationSpeed: 1
+    primaryAnimation: {fileID: 0}
+    secondaryAnimation: {fileID: 0}
+    enterSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Enter
+    loopSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Loop
+    exitSound: event:/FX/SmartObjects/VehicleCommon/Breakdown/Exit
