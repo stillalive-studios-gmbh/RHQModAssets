@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerReturn" id="{099543eb-26b8-492f-aa11-4df0206da671}">
+        <property name="volume">
+            <value>-80</value>
+        </property>
+        <property name="overridingInputFormat">
+            <value>2</value>
+        </property>
+        <property name="inputFormatOverridden">
+            <value>true</value>
+        </property>
+        <property name="name">
+            <value>MusicDucker</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{d5df2030-0bc9-4c5d-a627-3184d99d0a7f}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{ee7b18dc-dc5c-4cef-8932-b213f28562eb}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{c1675526-a550-49bb-a01b-f3d22a54a880}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{d5df2030-0bc9-4c5d-a627-3184d99d0a7f}">
+        <relationship name="effects">
+            <destination>{480b7747-448f-45e4-a97a-7482177deaa3}</destination>
+            <destination>{4b2e499d-5d71-430e-9f8f-eac066c67c26}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{ee7b18dc-dc5c-4cef-8932-b213f28562eb}"/>
+    <object class="Sidechain" id="{480b7747-448f-45e4-a97a-7482177deaa3}">
+        <relationship name="targets">
+            <destination>{f268a5a9-5b1e-4d58-9de4-cbda35e75754}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusFader" id="{4b2e499d-5d71-430e-9f8f-eac066c67c26}"/>
+</objects>
