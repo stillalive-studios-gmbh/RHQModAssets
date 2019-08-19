@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{40ea41b6-3a4b-4a24-87cc-eb99c2700d96}">
+        <property name="name">
+            <value>ZoomDistance</value>
+        </property>
+        <relationship name="folder">
+            <destination>{dc9ae063-3707-4b70-b5d3-c771641f5d2a}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{ba83694a-77c4-4c3c-9043-126e4454e393}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{ba83694a-77c4-4c3c-9043-126e4454e393}">
+        <property name="maximum">
+            <value>100</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+        <property name="seekSpeed">
+            <value>50</value>
+        </property>
+    </object>
+</objects>
